@@ -35,6 +35,7 @@ const milestones = [
   { year: "****", event: "Celebrated 30 years of educational excellence" },
   { year: "****", event: "Digital learning infrastructure implemented" },
   { year: "****", event: "Recognized as one of the top schools in the region" },
+  {year: "****", event: "Launched scholarship program for underprivileged students" },
 ];
 
 export default function AboutPage() {

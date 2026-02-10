@@ -351,6 +351,7 @@ export default function AcademicsPage() {
                   "Well-ventilated and naturally lit spaces",
                   "Ergonomic furniture for student comfort",
                   "Digital resources and e-learning tools",
+                  "Dedicated science and computer labs",
                 ].map((item, index) => (
                   <li key={index} className="flex items-center gap-3 text-muted-foreground">
                     <span className="w-2 h-2 rounded-full bg-primary" />
